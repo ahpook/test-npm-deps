@@ -1,0 +1,25 @@
+{
+  "name": "test-npm-deps",
+  "version": "1.0.0",
+  "description": "Just pulling in some dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahpook/test-npm-deps.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "ahpook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahpook/test-npm-deps/issues"
+  },
+  "homepage": "https://github.com/ahpook/test-npm-deps#readme",
+  "dependencies": {
+    "byline": "^5.0.0"
+  }
+}
